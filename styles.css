@@ -1,0 +1,19 @@
+.spacing {
+    margin: 15px;
+}
+
+h1 {
+    padding-bottom: 20px; 
+    font-weight: bold;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
+
+.weatherImage {
+    width: 100px;
+    height: 100px;
+}
