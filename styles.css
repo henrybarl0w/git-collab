@@ -1,3 +1,8 @@
 .spacing {
     margin: 15px;
 }
+
+h1 {
+    padding-bottom: 20px; 
+    font-weight: bold;
+}
