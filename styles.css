@@ -13,6 +13,12 @@ footer {
     font-style: italic;
 }
 
+body{
+    background: linear-gradient(to bottom, #f2f4f7, #cddef3);
+    min-height: 100vh;
+    margin: 0;
+}
+
 .weatherImage {
     width: 100px;
     height: 100px;
